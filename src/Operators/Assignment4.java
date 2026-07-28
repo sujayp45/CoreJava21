@@ -6,7 +6,7 @@ public class Assignment4 {
 		// TODO Auto-generated method stub
 		int num = 20;
 
-		num += 5;
+		num += 5;//num=num+5=20+5=25
 		System.out.println("Adds and assigns: " + (num)); //Use all assignment operators
 
 		num -= 3;

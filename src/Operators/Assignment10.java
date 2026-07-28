@@ -9,7 +9,7 @@ public class Assignment10 {
 		int b = 5;
 
 		System.out.println(++a - --b + a-- - b++);
-
+                           //11-4+11-4=7+7=14
 	}
 
 }
